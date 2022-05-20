@@ -3,13 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/drawable/gradient.xml" value="0.1935" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.147" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1825" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.15" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/drawable/menu_vertical.xml" value="0.177" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/layout/activity_main.xml" value="0.22191011235955055" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/layout/contact_item.xml" value="0.33" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/layout/fragment_contact.xml" value="0.25" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/layout/fragment_fix_manage.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/layout/nav_header_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/layout/nav_menu.xml" value="0.25" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/menu/bottom_navigation_view.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/menu/bottomnavigationview.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/MomoUI/app/src/main/res/menu/navigation_item.xml" value="0.25" />
       </map>
     </option>
   </component>

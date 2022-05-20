@@ -1,7 +1,9 @@
 package com.momotest.ui.activity
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
+import androidx.appcompat.app.AppCompatActivity
+import androidx.core.view.GravityCompat
 import androidx.viewpager2.widget.ViewPager2
 import com.momotest.ui.R
 import com.momotest.ui.adapter.ContactsViewpagerAdapter
@@ -13,6 +15,17 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         initData()
         handleEvents()
+
+        threeLine.setOnClickListener {
+            drawerMenu.openDrawer(GravityCompat.START)
+        }
+
+
+
+
+
+
+
     }
 
     private fun initData() {
